@@ -1,0 +1,6 @@
+/odm/app/apps_brasil_signed_aligned/apps_brasil_signed_aligned.apk
+/odm/app/noticias_aro_146/noticias_aro_146.apk
+/odm/app/samsung_club_bo_4.3.4/samsung_club_bo_4.3.4.apk
+/odm/app/samsung_club_uy_access_release_v1_3/samsung_club_uy_access_release_v1_3.apk
+/odm/app/trendy_aro_28/trendy_aro_28.apk
+/odm/app/UserManual/UserManual.apk
